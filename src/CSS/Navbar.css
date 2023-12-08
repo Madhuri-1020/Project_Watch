@@ -1,0 +1,31 @@
+.img-thumbnail {
+    border: none !important;
+
+}
+/* .img-thumbnail img{
+    mix-blend-mode: color-dodge !important;
+} */
+.toggler{
+    border: none !important;
+}
+/* .all-btn{
+    border: 1px solid rgb(88, 88, 88,0.4);
+    border-radius: 3px 0px 0px 3px !important;
+    border-right: none !important;
+} */
+/* .all-btn1{
+    border: 1px solid rgb(88, 88, 88,0.4);
+    border-radius: 0px 0px 0px 0px !important;
+    border-right: none !important;
+} */
+
+.dropdown{
+    padding: 6.4px;
+    width: 90px;
+    border-width: 1px 1px 1px 1px;
+    /* border: #D3D3D3; */
+    border-color: #DCDCDC;
+}
+/* .dropdown form{
+    border-color: aqua;
+} */
