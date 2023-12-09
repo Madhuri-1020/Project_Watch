@@ -1,7 +1,7 @@
 import React from 'react';
 import priceimg from '../Assets/pricing-5.png';
 
-export default function Plancards() {
+export default function Cards() {
     const card_plans = [
     {
         plan_amount_w : 10,

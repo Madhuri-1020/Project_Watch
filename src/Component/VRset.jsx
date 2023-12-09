@@ -9,11 +9,10 @@ import t5 from '../Assets/thunb-5.jpg';
 import t7 from '../Assets/product-items-1.jpg';
 import t8 from '../Assets/product-items-2.jpg';
 import t9 from '../Assets/product-items-3.jpg';
-import '../CSS/VRmoving.css'
 
 
 
-export default function VRmoving() {
+export default function VRset() {
 
 const [selectImg, setSelectImg] = useState(vrsetimg);
 const [count, setCount] = useState(1);

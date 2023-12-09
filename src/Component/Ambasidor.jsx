@@ -1,8 +1,7 @@
 import React from 'react';
 import ambasidor from '../Assets/content-4.jpg';
-import '../CSS/Imgambass.css'
 
-export default function Imgambass() {
+export default function Ambasidor() {
   return (
     <div>
         <div className='position-relative pt-4'>

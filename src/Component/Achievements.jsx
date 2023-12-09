@@ -1,7 +1,6 @@
 import React from 'react';
-import '../CSS/Appahievs.css';
 
-export function Appachievs() {
+export function Achievements() {
   return (
     <div>
 
@@ -45,4 +44,4 @@ export function Appachievs() {
   </div>
   )
 }
-export default Appachievs;
+export default Achievements;

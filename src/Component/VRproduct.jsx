@@ -1,8 +1,7 @@
 import React from 'react';
 import vr from '../Assets/content-2.jpg';
-import '../CSS/VRsection.css'
 
-export default function VRsection() {
+export default function VRproduct() {
   return (
     <div>
         <div className='container text-left mt-5'>

@@ -1,6 +1,5 @@
 import React from 'react';
 import watch from '../Assets/product-4.jpg';
-import '../CSS/Watches.css';
 
 
 export default function Watches() {
